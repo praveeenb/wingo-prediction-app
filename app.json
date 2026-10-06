@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "WinGo Anti-Trap Pro",
+    "slug": "wingo-antitrap-pro",
+    "version": "1.0.5",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.wingo.antitrap",
+      "buildNumber": "5"
+    },
+    "android": {
+      "versionCode": 5,
+      "package": "com.wingo.antitrap",
+      "permissions": [
+        "INTERNET"
+      ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3baf3c9e-7dd6-4ae1-9d9d-8291f9ad05cc"
+      }
+    }
+  }
+}
